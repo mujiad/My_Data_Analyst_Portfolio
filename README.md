@@ -91,18 +91,9 @@ Montana
 - There is a clear trade-off between volume and profitability.
 - Many products perform best at low to medium discount levels.
 
-8. Recommendations
+7. Recommendations
 - Reduce reliance on high discounting, especially for strong products like Paseo
 - Focus on optimal pricing (low–medium discount range)
 - Prioritize high-value segments like Government
 - Investigate why high-sales regions (like the U.S.) are less profitable
 
-10. How to show this in a dashboard (important for portfolio)
-
-Include:
-
-KPI cards → Total Sales, Total Profit, Units Sold
-Bar chart → Sales by Product
-Bar chart → Profit by Country
-Pie chart → Sales by Segment
-Line or column chart → Discount Band vs Sales/Profit
