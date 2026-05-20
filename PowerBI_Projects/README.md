@@ -40,4 +40,11 @@ Which doctors receive the most bookings?
 -INR is most;y use followed by USD, EUR, GBP
 
 
-How much revenue comes from follow-up appointments?
+## Is there a relationship between age and billing amount?
+- seniors(56 above) have the highest number of appointments and billing and they visit neurology department most often then followed by cardiology, general, and orthopedic consicutively but orthopedics generate more income than cardiology and general because orthopedics have more average billing compare to the rest of the departments. this also means that seniors spend more per visit in orthopedic than other department
+- young adults (16-35) visit orthopedics more followed by neurology, general and cardiology but general generates more income than neurology and cardiology because because general have more average billing than the rest of the department which means that young adults spend more in general department per visit.
+- adults (36-55) visit orthopedics and neurology the same amount more followed by cardiology and general but neurology generates more income than orthopedics even though they have the same visit number which means that adults spend more in neurolgy per visit than orthopedics. similarly general generates more income than cardiology even though adults visit cardiology more oftten which also means that adults spend more per visit in general than in cardiology.
+- in adults although orthopedics generate more income than general, general genrates more bills per visit, only second after neurology. 
+- neurology and orthopedics are visited more by all age groups and in average genearate more bills per visit and has thats why it generates more bills than other department
+
+is this good insite or bad. ignore the spelling or grammar just the idea
