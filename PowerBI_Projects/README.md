@@ -5,7 +5,7 @@
 ## Most Common Age Group
 - The Senior age group (56 years old and above) has the highest number of clinic visits.
 - This is followed by:
- - Young Adults (16 to 35)
+-- Young Adults (16 to 35)
  - Adults (36 to 55)
 ## Age Group with the Highest Billing
 - Seniors generated the highest total billing amount.
