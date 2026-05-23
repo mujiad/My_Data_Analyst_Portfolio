@@ -1,6 +1,6 @@
-# My_Data_Analyst_Portfolio
+### My_Data_Analyst_Portfolio
 
-# Sales & Discount Analysis Report
+### Sales & Discount Analysis Report
 1. Executive Summary
 Paseo is the top-performing product across sales, units sold, and profit.
 The Government segment generates the highest volume and profit.
@@ -16,7 +16,7 @@ Some products perform better without heavy discounting, suggesting strong base d
 Government is the most valuable segment in terms of both units sold and profit.
 Small Business and Channel Partners contribute moderately but are less profitable.
 
-👉 Insight: Focus on retaining and expanding the Government segment since it brings the highest returns.
+## Insight: Focus on retaining and expanding the Government segment since it brings the highest returns.
 
 4. Country Performance
 
