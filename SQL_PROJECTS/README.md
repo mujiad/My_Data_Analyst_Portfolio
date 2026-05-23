@@ -1,6 +1,6 @@
-# 🏥 Clinic Appointments Data Cleaning Project
+# Clinic Appointments Data Cleaning Project
 
-## 📌 Overview
+## Overview
 This project focuses on cleaning and standardizing a messy clinic appointments dataset using SQL.  
 The goal is to transform raw, inconsistent data into a structured format suitable for analysis and reporting.
 
@@ -8,7 +8,7 @@ The work includes handling duplicate records, inconsistent text values, multiple
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Remove duplicate or unreliable records
 - Standardize inconsistent categorical values
 - Clean and unify multiple date formats
@@ -18,13 +18,13 @@ The work includes handling duplicate records, inconsistent text values, multiple
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source Table:** `messy_clinic_appointments`
 - **Cleaned Table:** `appointments_cleaning`
 
 ---
 
-## ⚠️ Data Quality Issues Identified
+## Data Quality Issues Identified
 
 The original dataset contained several issues:
 
@@ -37,7 +37,7 @@ The original dataset contained several issues:
 
 ---
 
-## 🛠️ Data Cleaning Process
+## Data Cleaning Process
 
 ### 1. Creating a Working Copy
 A duplicate table was created to preserve the raw dataset.
@@ -102,7 +102,7 @@ Used regex to remove non-numeric characters and detect currency symbols.
 
 ---
 
-## 📊 Final Output Schema
+## Final Output Schema
 
 The cleaned dataset includes:
 
@@ -120,7 +120,7 @@ The cleaned dataset includes:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - Standardized inconsistent categorical fields
 - Converted multiple date formats into a unified structure
@@ -130,7 +130,7 @@ The cleaned dataset includes:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Data Cleaning
 - Window Functions (`ROW_NUMBER`, `DENSE_RANK`)
@@ -141,7 +141,7 @@ The cleaned dataset includes:
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 The dataset is now clean, structured, and suitable for:
 - Data analysis
@@ -150,5 +150,3 @@ The dataset is now clean, structured, and suitable for:
 
 ---
 
-## 👤 Author
-SQL data cleaning project focused on healthcare appointment data preprocessing and transformation.
