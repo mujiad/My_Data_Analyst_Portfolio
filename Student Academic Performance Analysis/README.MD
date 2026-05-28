@@ -15,3 +15,16 @@
 | studyHOURS | Total study hours logged |
 | Python | Final Python exam score |
 | DB | Final Database exam score |
+
+
+### insites
+## Performance per country
+highest 
+norway with the highest number in all performance in python but also have the highest number of low performance in database score
+germany
+united kingdom
+
+lowest
+france having the highest number of and having only low performing in both python and data base score
+italy having majority of its number have low performance in database and all of its python score is low
+somali
