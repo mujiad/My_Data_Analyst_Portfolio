@@ -19,12 +19,7 @@
 
 ### insites
 ## Performance per country
-highest 
-norway with the highest number in all performance in python but also have the highest number of low performance in database score
-germany
-united kingdom
 
-lowest
-france having the highest number of and having only low performing in both python and data base score
-italy having majority of its number have low performance in database and all of its python score is low
-somali
+- France and Italy recorded the weakest overall performance, with 100% of participants classified as low-performing in Python and 100% and 82.76%, respectively, classified as low-performing in Database. These findings suggest significant challenges in foundational programming and database competencies within these countries. More broadly, Database performance appears weaker than Python performance across many countries, with several countries reporting more than half of their participants in the low-performance category. Notably, Kenya, the Netherlands, and Spain recorded 100% low-performance rates in Database despite achieving average performance levels in Python. This pattern suggests that Database concepts may present a greater learning challenge than Python and may warrant increased instructional focus across multiple countries.
+
+## Performance and study hours
