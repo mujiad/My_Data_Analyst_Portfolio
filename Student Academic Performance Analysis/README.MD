@@ -22,4 +22,6 @@
 
 - France and Italy recorded the weakest overall performance, with 100% of participants classified as low-performing in Python and 100% and 82.76%, respectively, classified as low-performing in Database. These findings suggest significant challenges in foundational programming and database competencies within these countries. More broadly, Database performance appears weaker than Python performance across many countries, with several countries reporting more than half of their participants in the low-performance category. Notably, Kenya, the Netherlands, and Spain recorded 100% low-performance rates in Database despite achieving average performance levels in Python. This pattern suggests that Database concepts may present a greater learning challenge than Python and may warrant increased instructional focus across multiple countries.
 
+- additionaly accross all gender, age category and previous education, students consistently records low performance in database subject which suggest that students must give more attention to database than python.
+
 ## Performance and study hours
