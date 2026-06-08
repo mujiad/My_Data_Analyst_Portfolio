@@ -2,7 +2,7 @@
 
 ## Powerbi Dashboard
 
-![Healthcare Appointment Dashboard](../../Image/Medical_appointment_Dashbords.png)
+![Healthcare Appointment Dashboard](../Image/Medical_appointment_Dashbords.png)
 
 ## Patient & Demographic Insights
 ## Average Patient Age
