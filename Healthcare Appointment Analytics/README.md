@@ -4,6 +4,9 @@
 
 ![Healthcare Appointment Dashboard](../Image/Medical_appointment_Dashbords.png)
 
+link to powerbi below
+- https://app.powerbi.com/groups/me/reports/8f96bf67-61dd-43c1-bf0c-53f9f44becb2/85852c4c4693757d8f8b?experience=power-bi
+
 ## Patient & Demographic Insights
 ## Average Patient Age
 - The average patient age is 54 years old.
