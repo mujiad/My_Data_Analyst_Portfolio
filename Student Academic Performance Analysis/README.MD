@@ -16,6 +16,11 @@
 | Python | Final Python exam score |
 | DB | Final Database exam score |
 
+## PowerBI Dashboard
+
+![Student Academic Performance Analysis](../Image/Student_performance_dashboards.png)
+
+
 
 ### insites
 ## Performance per country
@@ -24,4 +29,6 @@
 
 - additionaly accross all gender, age category and previous education, students consistently records low performance in database subject which suggest that students must give more attention to database than python.
 
-## Performance and study hours
+## Performance per Study hour
+
+-  study hour are consistent with students performance. Students with high performance in python and database also shows more study hours spend.
