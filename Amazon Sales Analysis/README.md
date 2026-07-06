@@ -21,5 +21,7 @@
 
 ### dashboards
 
+![Amazon Sales Dashboard](../Image/Amazon sales dashboard.png)
+
 
 ### Insites
