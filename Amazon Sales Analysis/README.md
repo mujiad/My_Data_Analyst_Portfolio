@@ -21,7 +21,7 @@
 
 ### dashboards
 
-![Amazon Sales Dashboard](../Image/Amazon sales dashboard.png)
+![Healthcare Appointment Dashboard](../Image/Amazon_Sales_Dashboard.png)
 
 
 ### Insites
