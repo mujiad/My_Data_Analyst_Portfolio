@@ -13,3 +13,9 @@ Folder: https://github.com/mujiad/My_Data_Analyst_Portfolio/blob/main/Healthcare
 ![Student Academic Performance Analysis](./Image/Student_performance_dashboards.png)
 
 Folder: https://github.com/mujiad/My_Data_Analyst_Portfolio/blob/main/Student%20Academic%20Performance%20Analysis/README.MD
+
+## Amazon Sales Analysis
+
+![Amazon Sales Analysis](./Image/Amazon_Sales_Dashboard.png)
+
+Folder: https://github.com/mujiad/My_Data_Analyst_Portfolio/tree/main/Amazon%20Sales%20Analysis
