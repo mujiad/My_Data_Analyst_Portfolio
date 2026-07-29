@@ -7,7 +7,7 @@
     - incorrect data types or formatting 
     - comma separators in numeric fields
 
-## DaShboard
+## Dashboard
 
 ![Financial Report Dashboard](../Image/Financial_report_dahsboard.png)
 
