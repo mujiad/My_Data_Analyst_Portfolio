@@ -1,4 +1,17 @@
-### My_Data_Analyst_Portfolio
+### About Dataset
+
+-  A dataset consisting of sales and profit data sorted by market segment and country/region.
+
+- The raw data includes formatting inconsistencies, such as:
+    - currency  '$' sign and '-' from all columns where they are present
+    - incorrect data types or formatting 
+    - comma separators in numeric fields
+
+## DaShboard
+
+![Financial Report Dashboard](../Image/Financial_report_dahsboard.png)
+
+### Insites
 
 ## Sales & Discount Analysis Report
 ## Executive Summary

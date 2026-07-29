@@ -8,6 +8,12 @@
 
 Folder: https://github.com/mujiad/My_Data_Analyst_Portfolio/blob/main/Healthcare%20Appointment%20Analytics/README.md
 
+## Comapany Financial Report
+
+![Comapany Financial Report](./Image/Financial_report_dahsboard.png)
+
+Folder : https://github.com/mujiad/My_Data_Analyst_Portfolio/blob/main/EXCEL_PROJECTS/README.md
+
 ## Student Academic Performance Analysis
 
 ![Student Academic Performance Analysis](./Image/Student_performance_dashboards.png)
